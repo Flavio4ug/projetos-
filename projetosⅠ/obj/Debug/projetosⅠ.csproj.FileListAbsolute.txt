@@ -1,0 +1,7 @@
+C:\Users\DEV2A-24\Documents\CÓGUIDOS\projetosⅠ\projetosⅠ\bin\Debug\projetosⅠ.exe.config
+C:\Users\DEV2A-24\Documents\CÓGUIDOS\projetosⅠ\projetosⅠ\bin\Debug\projetosⅠ.exe
+C:\Users\DEV2A-24\Documents\CÓGUIDOS\projetosⅠ\projetosⅠ\bin\Debug\projetosⅠ.pdb
+C:\Users\DEV2A-24\Documents\CÓGUIDOS\projetosⅠ\projetosⅠ\obj\Debug\projetosⅠ.csproj.AssemblyReference.cache
+C:\Users\DEV2A-24\Documents\CÓGUIDOS\projetosⅠ\projetosⅠ\obj\Debug\projetosⅠ.csproj.CoreCompileInputs.cache
+C:\Users\DEV2A-24\Documents\CÓGUIDOS\projetosⅠ\projetosⅠ\obj\Debug\projetosⅠ.exe
+C:\Users\DEV2A-24\Documents\CÓGUIDOS\projetosⅠ\projetosⅠ\obj\Debug\projetosⅠ.pdb
